@@ -893,20 +893,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter",
+        "title": "Monkey Cafe",
         "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
         "author": "@gatsbyjs"
       },
       "port": 8000,
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-04-12T16:13:44.792Z",
+      "buildTime": "2019-12-31T04:21:57.012Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5c3b95050386bedbdba810fd24cf3fa3",
+        "contentDigest": "0410b6a3c4884b8fad452d52365910e4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -916,7 +914,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ddb4706525c2cb3953f879dc66892aab",
+        "contentDigest": "bd6d84f5b9bbf3d4dbcf69985c79bead",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -927,33 +925,33 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2019-04-12T16:12:38.091Z",
-      "accessTime": "2019-04-12T16:13:49.372Z",
-      "changeTime": "2019-04-12T16:13:35.364Z",
-      "birthTime": "2019-04-12T16:12:38.090Z",
+      "modifiedTime": "2019-04-22T17:19:10.693Z",
+      "accessTime": "2019-12-31T04:22:00.590Z",
+      "changeTime": "2019-04-22T17:19:10.693Z",
+      "birthTime": "2019-04-12T16:12:38.091Z",
       "root": "/",
       "dir": "/Users/jkuo/Personal/challenge-app-fe/src",
       "base": "images",
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 16777221,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 4,
       "uid": 1068,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8614807086,
+      "ino": 1836589,
       "blocks": 0,
-      "atimeMs": 1555085629372.0496,
-      "mtimeMs": 1555085558091.1838,
-      "ctimeMs": 1555085615363.8997,
-      "birthtimeMs": 1555085558090.0725,
-      "atime": "2019-04-12T16:13:49.372Z",
-      "mtime": "2019-04-12T16:12:38.091Z",
-      "ctime": "2019-04-12T16:13:35.364Z",
-      "birthtime": "2019-04-12T16:12:38.090Z"
+      "atimeMs": 1577766120589.8528,
+      "mtimeMs": 1555953550692.7256,
+      "ctimeMs": 1555953550692.7256,
+      "birthtimeMs": 1555085558091.183,
+      "atime": "2019-12-31T04:22:00.590Z",
+      "mtime": "2019-04-22T17:19:10.693Z",
+      "ctime": "2019-04-22T17:19:10.693Z",
+      "birthtime": "2019-04-12T16:12:38.091Z"
     },
     "88534066-7f87-574c-aa43-d1c81dfa6cda": {
       "id": "88534066-7f87-574c-aa43-d1c81dfa6cda",
@@ -1152,6 +1150,48 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /page-3/": {
+      "jsonName": "page-3-74c",
+      "internalComponentName": "ComponentPage3",
+      "path": "/page-3/",
+      "component": "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-3.js",
+      "componentChunkName": "component---src-pages-page-3-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d66375f2-a408-50db-aa0f-9c025b55e640",
+      "pluginCreatorId": "d66375f2-a408-50db-aa0f-9c025b55e640",
+      "componentPath": "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-3.js",
+      "id": "SitePage /page-3/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b33c75d1308f8ec99b5f72a8e4cbd7a0",
+        "description": "d66375f2-a408-50db-aa0f-9c025b55e640",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-4/": {
+      "jsonName": "page-4-9ee",
+      "internalComponentName": "ComponentPage4",
+      "path": "/page-4/",
+      "component": "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-4.js",
+      "componentChunkName": "component---src-pages-page-4-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d66375f2-a408-50db-aa0f-9c025b55e640",
+      "pluginCreatorId": "d66375f2-a408-50db-aa0f-9c025b55e640",
+      "componentPath": "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-4.js",
+      "id": "SitePage /page-4/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3f8b69140c6a7089dfa4dc06458d09ed",
+        "description": "d66375f2-a408-50db-aa0f-9c025b55e640",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1181,7 +1221,9 @@
     "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "sq--src-components-image-js": 2011440971
+    "sq--src-components-image-js": 2011440971,
+    "page-3-74c": "379/path---page-3-74-c-e74-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-4-9ee": "669/path---page-4-9-ee-4e3-0SUcWyAf8ecbYDsMhQkEfPzV8"
   },
   "components": {
     "/Users/jkuo/Personal/challenge-app-fe/.cache/dev-404-page.js": {
@@ -1214,6 +1256,22 @@
       "query": "",
       "pages": [
         "/page-2/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-3.js": {
+      "componentPath": "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-3.js",
+      "query": "",
+      "pages": [
+        "/page-3/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-4.js": {
+      "componentPath": "/Users/jkuo/Personal/challenge-app-fe/src/pages/page-4.js",
+      "query": "",
+      "pages": [
+        "/page-4/"
       ],
       "isInBootstrap": false
     }
